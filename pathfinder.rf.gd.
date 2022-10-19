@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+
+        .container{padding: 30px;}
+
+
+         footer {
+            text-align: left;
+            padding: 00;
+            background-color: alicebl2ue;
+            color: black;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background:rgb(164, 161, 131) ;
+        }
+
+        nav {
+            width: 100%;
+            background: rgb(243, 16, 16);
+            overflow: auto;
+        }
+
+        ul {
+            padding: 0;
+            margin: 0 0 0 150px;
+            list-style-type: none;
+        }
+
+        li {
+            float: right;
+        }
+
+        .logo img {
+            position: absolute;
+            margin-top: 4px;
+            margin-lest: 10px;
+            left: 10px;
+
+        }
+
+        nav a {
+            width: 100px;
+            display: block;
+            padding: 20px 15px;
+            text-decoration: none;
+            font-family: arial;
+            color: blue;
+            text-align: center;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="logo"><img src="logo new.jpg" alt="MY Photo" height="50">
+
+    </div>
+    <nav>
+        <ul>
+            <li><a href="Contact.html">Contact</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="index.html">Home</a></li>
+
+        </ul>
+    </nav>
+    <marquee behavior=left style="color:blue">
+        <h2><b>Welcome To Saurabh Tiwari Official</b></h2>
+    </marquee>
+
+
+    <p align="right"><img src="photo new.jpg" height="300" alt="Sourav Tiwari" style="float:right;
+        margin-right: 60px; margin-bottom:20px; border: solid rgb(17, 12, 16) 1px; padding: 3px;" />
+
+
+
+<h2> <a href="https://www.sarkariresult.com/">Sarkari Result</a></li></h2>
+<h2> <a href="https://www.rojgarresult.com/">Rojgar Result</a></li></h2>
+<h2> <a href="http://www.vbspu.ac.in/home-page/">VBSPU</a></li></h2>
+<h2> <a href="http://www.rmlau.ac.in/new/index.aspx">RMLAU</a></li></h2>
+<h2> <a href="https://upmsp.edu.in/">UPMSP</a></li></h2>
+<h2> <a href="https://updeled.gov.in/">UPDeled</a></li></h2>
+
+
+
+
+
+        <br><br><br><br><br>
+
+<h1>
+    
+                                     JAVA PDF NOTES 
+                                     BY SAURABH TIWARI
+    
+</h1>
+            
+        <!-- HACKER PDF 111111 -->
+<div class="container">
+    <embed src="pdfcoffee.com_java-means-durga-sir-5-pdf-free.pdf" type="application/pdf" width="100%" height="500px" />
+</div>
+
+<!-- HACKER PDF 2222222 -->
+
+<!-- <div class="container">
+    <embed src="core-java-durga-sir_compress.pdf" type="application/pdf" width="100%" height="500px" />
+</div> -->
+
+<!-- HACKER PDF 333333 -->
+
+<!-- <div class="container">
+    <embed src="idoc.pub_core-java-durga-sir.pdf" type="application/pdf" width="100%" height="500px" />
+</div> -->
+
+<!-- HACKER PDF 444444 -->
+
+<div class="container">
+    <embed src="pdfcoffee.com_java-means-durga-sir-pdf-free.pdf" type="application/pdf" width="100%" height="500px" />
+</div>
+
+<!-- HACKER PDF 55555 -->
+
+<div class="container">
+    <embed src="toaz.info-durga-core-java-book-pr_886965a2cc0df402612d0aec3852e062.pdf" type="application/pdf" width="100%" height="500px" />
+</div>
+
+<!-- HACKER PDF 55555 -->
+
+<div class="container">
+    <embed src="Maths II.quantam.pdf" type="application/pdf" width="100%" height="500px" />
+</div>
+
+
+<br><br><br><br><br>
+
+
+
+    <div class="footer" background="black">
+        <centre>
+            <pre> <p><i><h1>
+
+Designed And Hosted By SSoft.
+IT Solution © Copyright 2022</h1></i></p></pre>
+        </centre>
+
+    </div>
+</body>
+
+</html>

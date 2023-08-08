@@ -1,49 +1,20 @@
-<!-- Add a header with your name and brief introduction -->
-<h1 align="center">Hi there 👋, I'm SAURABH TIWARI</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
+<h1 align="center">Hi 👋, I'm Saurabh tiwari</h1>
+<h3 align="center">A passionate Java developer from India</h3>
 
-<!-- Add a profile view counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saurabhtiwarivbspu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhtiwarivbspu&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhtiwarivbspu" /> </p>
 
-<!-- Add GitHub trophy showcase -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabhtiwarivbspu" alt="GitHub Trophies" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhtiwarivbspu" alt="saurabhtiwarivbspu" /></a> </p>
 
-<!-- Describe what you're currently learning -->
-<p align="left"> 🌱 I’m currently learning **JAVA, JAVA WITH DATA STRUCTURE AND ALGORITHM**</p>
-
-<!-- Add social media links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-tiwari-a3296b227/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-tiwari-a3296b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-tiwari-a3296b227/" height="30" width="40" /></a>
 </p>
 
-<!-- Add languages and tools section -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <!-- Add more icons for your skills here -->
-</p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<!-- Add GitHub stats and top languages cards -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhtiwarivbspu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhtiwarivbspu&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhtiwarivbspu&show_icons=true&locale=en&layout=compact" alt="saurabhtiwarivbspu" /></p>
 
-<!-- Add GitHub streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhtiwarivbspu" alt="GitHub Streak Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhtiwarivbspu&show_icons=true&locale=en" alt="saurabhtiwarivbspu" /></p>
 
-<!-- Feel free to add more sections or customize the existing ones -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhtiwarivbspu&" alt="saurabhtiwarivbspu" /></p>

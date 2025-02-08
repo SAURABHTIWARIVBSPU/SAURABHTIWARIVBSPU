@@ -2,6 +2,10 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1BqDkUd-dwaFE2AAaEf-ablYhZUsuAO_v" alt="Profile Picture" width="150"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Java+%7C+React+%7C+Developer;Cloud+Enthusiast+%7C+DevOps+Learner;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
